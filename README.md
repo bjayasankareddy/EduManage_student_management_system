@@ -133,3 +133,7 @@ Contributions are welcome\! Please feel free to open an issue or submit a pull r
 ## **📜 License**
 
 This project is licensed under the MIT License.
+
+Caution
+
+All the html files used in the backend/server are all placeholder if runned the server may give errors.
